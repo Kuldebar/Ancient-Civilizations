@@ -65,7 +65,7 @@
 		{
 		"name": "Jagunjagun",
 		"unitType": "Sword",
-		"uniqueTo": "Nok",
+		"uniqueTo": "Harappa",
 		"replaces": "Warrior",
 		"movement": 2,
 		"strength": 8,
@@ -103,21 +103,9 @@
 		"uniques": ["[1] additional attacks per turn","May upgrade to [Composite Bowman] through ruins-like effects"],
 		"promotions": ["Charge","Ignore terrain cost"],
 		"attackSound": "nonmetalhit"
-	},
-		{
-		"name": "Serpent Priest",
-		"unitType": "Sword",
-		"uniqueTo": "The Olmec",
-		"replaces": "Spearman",
-		"movement": 2,
-		"strength": 11,
-		"cost": 60,
-		"hurryCostModifier": 20,
-		"requiredTech": "Bronze Working",
-		"obsoleteTech": "Civil Service",
-		"upgradesTo": "Pikeman",
-		"uniques": ["[+15]% Strength bonus for [Sword] units within [1] tiles","Heals [25] damage if it kills a unit","[-10]% Strength for enemy [Military] units in adjacent [All] tiles"],
-		"attackSound": "nonmetalhit"
+	
+		
+		
 	},
 	{	
 		"name": "Desert Archer",
