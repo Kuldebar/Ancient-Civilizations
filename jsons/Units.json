@@ -63,7 +63,7 @@
 		"attackSound": "nonmetalhit"
 	},
 		{
-		"name": "Jagunjagun",
+		"name": "Tiger Warrior",
 		"unitType": "Sword",
 		"uniqueTo": "Harappa",
 		"replaces": "Warrior",
