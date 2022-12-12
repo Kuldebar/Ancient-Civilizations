@@ -8,15 +8,7 @@
 		"techRequired": "Currency",
 		"uniques": ["Can only be built on [Coastal] tiles","[+1 Food] for each adjacent [Fishing Boats]","[+1 Production] <after discovering [Navigation]>"]
 	},
-		{
-		"name": "Colossal Head",
-		"uniqueTo": "The Olmec",
-		"terrainsCanBeBuiltOn": ["Jungle","Forest"],
-		"faith": 1,
-		"turnsToBuild": 6,
-		"techRequired": "Calendar",
-		"uniques": ["[+1 Culture] <after discovering [Archaeology]>","[+2 Science] for each adjacent [Great Improvement]"]
-	},
+
 		{
 		"name": "Desert Plantation",
 		"uniqueTo": "Himyar",
