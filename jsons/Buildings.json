@@ -79,17 +79,5 @@
 		"uniques": ["Free [Worker] appears"],
 		"requiredTech": "Currency"
 	},
-	    {
-		"name": "Smeltery",
-        "replaces": "Forge",
-		"uniqueTo": "Nok",
-        "maintenance": 1,
-		"production": 1,
-        "hurryCostModifier": 25,
-        "requiredTech": "Iron Working",
-        "uniques": ["Provides [2] [Iron]","[+15]% Production when constructing [Spaceship part] units [in this city]",
-			"[+15]% Production when constructing [Land] units [in this city]",
-			"[+1 Production] from [Iron] tiles [in this city]"]
-    },
 	
 ]
