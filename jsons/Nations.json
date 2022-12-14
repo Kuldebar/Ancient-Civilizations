@@ -257,11 +257,10 @@
 
 		"outerColor": [	189, 182, 125],
 		"innerColor": [	82, 70, 55],
-		"uniqueName": "Gift of the Rivers",
-		"uniqueText": "All cities provide 1 copy of Terracotta luxury resource. +1","Starts with Spearman"
-"uniques": ["Starts with [Spearman]"
-"uniques": ["Starts with [Brickworks]"
-"uniques": ["Gain a free [Free Terracotta] [in all cities]",
+		"uniqueName": "Gift of the Indus Valley",
+		"uniqueText": "All cities provide 1 copy of Fine Clay luxury resource. +1","
+		"uniques": ["Starts with [Brickworks]",
+		"uniques": ["Gain a free [Free Terracotta] [in all cities]",
 
 "[
 		"cities":
