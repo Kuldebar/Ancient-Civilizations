@@ -61,20 +61,8 @@
 		"upgradesTo": "Swordsman",
 		"uniques": ["Invisible to non-adjacent units","Earn [25]% of killed [Military] unit's [Strength] as [Faith]","May upgrade to [Spearman] through ruins-like effects"],
 		"attackSound": "nonmetalhit"
-	},
-		{
-		"name": "Tiger Warrior",
-		"unitType": "Sword",
-		"uniqueTo": "Harappa",
-		"replaces": "Warrior",
-		"movement": 2,
-		"strength": 8,
-		"cost": 32,
-		"hurryCostModifier": 20,
-		"obsoleteTech": "Metal Casting",
-		"upgradesTo": "Swordsman",
-		"uniques": ["Ignores terrain cost","May upgrade to [Spearman] through ruins-like effects"],
-		"attackSound": "nonmetalhit"
+
+
 	},
 	{
 		"name": "Artaxiad Noble",
