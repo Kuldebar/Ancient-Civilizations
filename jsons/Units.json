@@ -32,7 +32,7 @@
 		"hurryCostModifier": 20,
 		"attackSound": "throw"
 	},
-	[
+	{
 		"name": "Bireme",
 		"unitType": "Ranged Water",
 		"uniqueTo": "Phoenicia",
