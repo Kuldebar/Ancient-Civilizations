@@ -258,9 +258,9 @@
 		"outerColor": [	189, 182, 125],
 		"innerColor": [	97, 149, 119],
 	"uniqueName": "Gift of the Indus Valley",
-		"uniqueText": "All cities provide 1 copy of Fine Clay luxury resource. +1",
+		"uniqueText": "All cities provide 1 copy of Fine Clay luxury resource. +1, Starts with Brickwork and Pottery", 
 				"uniques": ["Gain a free [Fine Clay] [in all cities]",
-					    "Starts with [Brickwork]","Starts with [Pottery]",			    
+					    "Starts with [Brickwork]","Starts with [Pottery]"],			    
 		"cities": ["Hari Yupuya","Kukkutarma","Rehman Dheri","Manda","Nausharo","Kalinganan","Rakhigahri","Mehrgarh","Banawali","Ganweriwala","Kot Diji","Sutkagen Dor","Sotka Koh","Chanhu Daro","Balakot","Dholavira","Surkotada","Lothal","Kuntasi"]
 				
 // City names from CivFanatics Forum @Steb
