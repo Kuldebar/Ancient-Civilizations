@@ -259,7 +259,7 @@
 		"innerColor": [	97, 149, 119],
 	"uniqueName": "Gift of the Indus Valley",
 		"uniqueText": "All cities provide 1 copy of Fine Clay luxury resource. +1",
-				"uniques": ["Starts with [Brickwork]",["Starts with [Pottery]",["Gain a free [Fine Clay] [in all cities]",		
+				"uniques": ["Gain a free [Fine Clay] [in all cities]",["Starts with [Brickwork]",["Starts with [Pottery]",	
 					    "Starts with [Animal Husbandry]","Starts with [Pottery]"],		
 
 			    
