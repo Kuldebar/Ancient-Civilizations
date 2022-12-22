@@ -240,12 +240,12 @@
 
 		"declaringWar": "You must be swept from our course, the river will flow!",
 		"attacked": "Sadly, I see. you have chosen to swim in bloody waters.",
-		"defeated":  "We die, but  the river flows on beyond shores eternal.",
-		"introduction":  "Welcome to our lands. May there be peaceful waters between us!",
+		"defeated":  "We die, but  the river flows beyond shores eternal.",
+		"introduction":  "Welcome to the land of the Harappa. May there be peaceful waters between us!",
 
 		"neutralHello": "Hello, friend.",
-		"neutralLetsHearIt": ["Yes.","Let's discuss."],
-		"neutralNo": ["No way.","Never!"],
+		"neutralLetsHearIt": ["Yes.","Let's converse."],
+		"neutralNo": ["No, not acceptable.","No!"],
 		"neutralYes": ["Very good.","Of course, yes.","I accept."],
 		"hateHello": "Go on!",
 		"hateLetsHearIt": ["Speak!"],
@@ -253,13 +253,13 @@
 		"hateYes": ["Let it be.","This offer is sweet water to a parched throat."],
 
 		"afterPeace": "Oh?",
-		"tradeRequest": "Do you like it?",
+		"tradeRequest": "Do you accept my equitable?",
 
 		"outerColor": [	189, 182, 125],
 		"innerColor": [	97, 149, 119],
 	"uniqueName": "Gift of the Indus Valley",
 		"uniqueText": "All cities provide 1 copy of Fine Clay luxury resource. +1",
-				"uniques": ["Gain a free [Fine Clay] [in all cities]",		
+				"uniques": ["Starts with [Brickwork]",["Starts with [Pottery]",["Gain a free [Fine Clay] [in all cities]",		
 					    "Starts with [Animal Husbandry]","Starts with [Pottery]"],		
 
 			    
